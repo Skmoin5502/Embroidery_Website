@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Embroidery_Website/static/css/main.e4a13524.css",
+    "main.js": "/Embroidery_Website/static/js/main.1637085c.js",
+    "static/js/453.ed3810f9.chunk.js": "/Embroidery_Website/static/js/453.ed3810f9.chunk.js",
+    "static/media/embroidreams-logo.png": "/Embroidery_Website/static/media/embroidreams-logo.ab23498b2cf814727d48.png",
+    "index.html": "/Embroidery_Website/index.html",
+    "main.e4a13524.css.map": "/Embroidery_Website/static/css/main.e4a13524.css.map",
+    "main.1637085c.js.map": "/Embroidery_Website/static/js/main.1637085c.js.map",
+    "453.ed3810f9.chunk.js.map": "/Embroidery_Website/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4a13524.css",
+    "static/js/main.1637085c.js"
+  ]
+}
