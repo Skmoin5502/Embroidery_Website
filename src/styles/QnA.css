@@ -1,0 +1,17 @@
+.qna {
+    padding: 20px;
+  }
+  
+  .qna h2 {
+    margin-bottom: 10px;
+  }
+  
+  .qna-item {
+    margin-bottom: 15px;
+  }
+  
+  .qna-item h3 {
+    margin: 0;
+    color: #333;
+  }
+  
